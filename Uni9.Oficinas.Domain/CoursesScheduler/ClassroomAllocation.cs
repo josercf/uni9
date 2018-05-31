@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 using Uni9.Oficinas.Domain.Organization;
 
 namespace Uni9.Oficinas.Domain.CoursesScheduler

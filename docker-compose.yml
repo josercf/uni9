@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  uni9.oficinas.api:
+    image: ${DOCKER_REGISTRY}uni9oficinasapi
+    build:
+      context: .
+      dockerfile: Uni9.Oficinas.Api/Dockerfile
